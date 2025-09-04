@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Megan Wong",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
+    "email": "mwong20@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://mewong21.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "mewong21", "url": "http://github.com/mewong21" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/mewong21" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
@@ -35,9 +35,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,10 +45,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa SAAS",
+      "position": "Computer Support Specialist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -57,8 +57,8 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "The Tutoring Center",
+      "position": "Head Instructor",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
