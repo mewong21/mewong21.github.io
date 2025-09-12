@@ -35,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
-      "startDate": "2024-09-01",
+      "startDate": "2024-08-26",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,69 +44,58 @@
   "work": [
     {
       "company": "UH Manoa SAAS",
-      "position": "Computer Support Specialist",
+      "position": "https://manoa.hawaii.edu/undergrad/saas/",
       "website": "",
-      "startDate": "2024-08-01",
+      "startDate": "2024-08-26",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "IT support at UH Manoa NAC",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provide software and hardware support to students and teachers"
       ]
     },
     {
       "company": "The Tutoring Center",
       "position": "Head Instructor",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "https://www.tutoringcenter.com/center/honolulu1hi",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
-      "summary": "",
+      "summary": "Tutor students from K-12",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Taught reading, writing, and math"\
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Honolulu Marathon",
+      "website": "https://www.honolulumarathon.org/",
+      "position": "Volunteer",
+      "startDate": "2024-12-08",
+      "endDate": "2024-12-08",
+      "summary": "Picked up trash and passed water cups to runners",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Met many runners and people"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Henry J Kaiser High School, Aloha in Action",
+      "website": "https://www.kaiserhighschoolhawaii.org/",
+      "position": "Planner",
+      "startDate": "2024-10-18",
+      "endDate": "2024-10-18",
+      "summary": "Aloha in Action, every school in the Hawaii Kai area did volunteer work.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Watching a highlight video of what everyone did",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Academic Merit Scholarship",
+      "date": "2024-Present",
+      "awarder": "UH Manoa",
+      "summary": "Hawai’i residents with a high school cumulative GPA of 3.6 or higher will be considered for a $4,000 scholarship per year. Total $16,000 over 4 years."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
