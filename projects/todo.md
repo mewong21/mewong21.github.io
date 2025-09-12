@@ -20,4 +20,4 @@ I needed a way to keep track of the tasks I had to do on my laptop, so I decided
 For this project I used Electron to build this app. I used CSS to change the background and animate my cat showing up. The to do list logic was done in JavaScript.
 
 
-Here's a link to the repo:
+Here's a link to the repo: https://github.com/squeeto/yourrepo
