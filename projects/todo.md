@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/td.png
 title: "To Do List"
 date: 2025
 published: true
