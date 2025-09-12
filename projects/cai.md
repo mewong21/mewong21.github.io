@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CAI3.png
+image: img/CAI31.png
 title: "C.AI"
 date: 2024
 published: true
