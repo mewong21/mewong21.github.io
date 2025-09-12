@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/me.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/bomb.jpg">
 
 ## Learning TypeScript 1 WOD at a Time
 
