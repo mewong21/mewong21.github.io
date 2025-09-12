@@ -6,7 +6,7 @@ title: "Silly Questions"
 date: 2025-09-09
 published: true
 labels:
-  - Software Engineering
+  - StackOverflow
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/q.jpg">
