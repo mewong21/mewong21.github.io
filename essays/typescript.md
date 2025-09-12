@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "My Path in Computer Science"
+title: "Learning TypeScript 1 WOD at a Time"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-08
+date: 2025-09-09
 published: true
 labels:
   - Software Engineering
@@ -11,8 +11,8 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/me.png">
 
-## My Path in Computer Science
+## Learning TypeScript 1 WOD at a Time
 
-  Since I was young I have always had an interest in computers and technology. My parents taught me how to use a keyboard and mouse when I was 2 and by the time I was 10 I had a full PC setup and was playing games all day. My parents encouraged me to learn coding through Khan Academy every Sunday, I was always frustrated and I would cry doing the problems because I didn’t understand. But now I am forever grateful to my parents for introducing me to computer science because it has become something that I am passionate about.
-	I enjoy solving problems with code and making applications that people can use. In addition to writing code, I also like to design the UI and the theme of the applications. Projects that I have so far have been for fun and always involve my cat. I’ve made a mobile app that has a laser pointer for my cat and a to-do list that has my cat pop up when a task is finished. Although these projects don’t really solve a problem or increase efficiency, I enjoy making them because I get to create something that comes from my imagination and customize it to how I want it.
-I hope to improve my problem solving skills as I continue my education. I also hope to improve my soft skills and make many new connections. I think these are very important skills for anyone and it’d really help me in the future. I want to continue learning more about all the different topics in computer science and hopefully find the area that I am most passionate about so I can pursue it as my career.
+I think TypeScript is a very flexible and fun language to use. Compared to other programming languages, it feels more modern and user-friendly, making it easier to write clean, organized code. I have learned many new things in this module, including shortcuts in syntax that simplify common tasks and improve readability. From a software engineering perspective, I believe TypeScript is a strong language because it combines the familiarity of JavaScript with additional tools that make code safer and more maintainable.
+I also find the practice WODs to be useful for my learning. They encourage me to think critically about problems, break them into smaller sub-problems, and approach them step by step. Being timed adds pressure, but it also keeps me focused and engaged, making the practice more effective. Although the time limit can be stressful, it teaches me to plan my approach carefully, prioritize tasks, and consider different strategies before starting to write code. 
+Additionally, I appreciate how tools like AI can enhance the WOD experience. Repetitive or tedious tasks, such as initializing class variables, can be handled more quickly, allowing me to focus on problem-solving and learning new concepts. Overall, the combination of TypeScript’s user-friendly features and the structured, timed practice of WODs creates a learning environment that is both challenging and enjoyable.
