@@ -13,9 +13,7 @@ summary: "A small to do list application to help keep track of my homework"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/todo.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="781px" height="546" src="../img/todo.png" class="img-thumbnail" >
 </div>
 
 I needed a way to keep track of the tasks I had to do on my laptop, so I decided to make my own. It's an application that has a transparent background. You can add multiple tasks and when a task is completed my cat shows up.
