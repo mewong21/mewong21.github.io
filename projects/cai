@@ -1,0 +1,19 @@
+---
+layout: project
+type: project
+image: img/mm2.png
+title: "C.AI"
+date: 2024
+published: true
+labels:
+  - AI
+summary: "A website to diagnose your cat"
+---
+
+<div class="text-center p-4">
+  <img width="781px" height="546" src="../img/meowmeow.png" class="img-thumbnail" >
+</div>
+
+I created a web application designed to help cat owners better understand their pets by combining computer vision, audio input, and AI responses. When launched, the app activates the camera and microphone, detects when a cat is present, and allows the user to ask questions about their cat’s behavior or well-being. The AI then provides conversational answers to help guide cat owners. To support learning, the site also includes links to resources on common feline diseases, encouraging users to stay informed about their pet’s health.
+
+The project was built as a learning exercise in integrating web technologies with AI models. I adapted an existing open-source AI implementation from GitHub by modifying prompts and tailoring it for cat-focused interactions. This was for my science fair project during my senior year of highschool.
