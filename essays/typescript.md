@@ -6,7 +6,8 @@ title: "Learning TypeScript 1 WOD at a Time"
 date: 2025-09-09
 published: true
 labels:
-  - Software Engineering
+  - TypeScript
+  - WODs
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/bomb.jpg">
