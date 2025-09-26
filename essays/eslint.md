@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/eslint.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/eslint.png">
 
 ## ESGlint
 I never knew there could be so many errors with my coding format. When I first started using ESLint many red squiggly lines popped up and I was so confused as to why. When I hovered over them they said that the EOF line needs to end on a new line. I never knew there were so many standards to follow. At first I found them to be tedious to fix but after a while I got used to them and they make my code look nicer.
