@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "html 😡😡😡"
 # All dates must be YYYY-MM-DD format!
-date: 2025-010-09
+date: 2025-10-09
 published: true
 labels:
   - UI
