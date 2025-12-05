@@ -10,7 +10,7 @@ labels:
   - Legos
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/lego.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/lego.jpg">
 
 ## Coding with Bricks
 When people think of coding or computer science they think of the stereotypical in a dark basement, typing away at the computer for hours. But for me I think coding is like building legos. You come up with an idea you want to build and you use the legos to build it, initially it might not come out how you pictured it at first but then you fix and tweak it to how you want. During the process you might also come up with an idea to add that you didn't have originally.
